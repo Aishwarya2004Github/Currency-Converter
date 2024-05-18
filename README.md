@@ -6,6 +6,7 @@ Real-time Exchange Rates: Currency converters provide up-to-date exchange rates 
 Wide Range of Currencies: They support conversion between numerous global currencies, including major ones like the US Dollar (USD), Euro (EUR), British Pound (GBP), and others.
 
 User Input: Users can input the amount they wish to convert and select the source and target currencies.
+![Screenshot (69)](https://github.com/Aishwarya2004Github/Currency-Converter/assets/160381307/e0d006e5-0844-4422-9a58-f0e4474069f6)
 
 Calculation: The tool calculates the equivalent amount in the target currency based on the current exchange rate.
 
