@@ -25,7 +25,12 @@ Overall, a currency converter is a valuable tool for financial planning, budgeti
 
 https://github.com/Aishwarya2004Github/Currency-Converter/assets/160381307/e24a6486-50d7-4648-8442-80f858160ce8
 
+# TECHNICAL LANGUAGE USED:-
 
+💱HTML
+💱CSS
+💱 JAVASCRIPT
+💱 API
 
 
 
