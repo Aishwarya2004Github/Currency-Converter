@@ -1,4 +1,4 @@
-# Currency-Converter
+# Currency-Converter (Convertly)
 A currency converter is a tool that allows users to convert the value of one currency into another. It is commonly used by travelers, businesses, and anyone dealing with multiple currencies to understand the relative value and purchasing power across different countries. Here are the key features and functionalities of a typical currency converter:
 
 Real-time Exchange Rates: Currency converters provide up-to-date exchange rates sourced from financial markets or official institutions. These rates can fluctuate frequently due to market dynamics.
